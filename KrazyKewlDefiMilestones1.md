@@ -11,5 +11,5 @@ Please provide a list of all deliverables of the milestone extracted from the in
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 1. | ... |...| ...| 
-| 2.  | ... |...| ...| 
+| 1. 1       Upon Granted  https://cryptotron-c41af.web.app/
+| 2.  
